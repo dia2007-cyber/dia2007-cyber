@@ -1,16 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 olá tudo bem?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Diana e eu moro na cidade de sorocaba-sp.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">sobre min</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 atualmente estou fazendo cursando meu 2 ano de desenvolvimento de sistemas<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
